@@ -1,0 +1,1 @@
+Trabalho foi feito em grupo com meus colegas Daniel dos Santos e Fernanda Fernandes. O desafio estava em conseguir trabalhar com uma enorme base de dados. Os dados eram os microdados do ENEM 2016 com mais de 8 Milhões de indivíduos e 166 varáveis.
